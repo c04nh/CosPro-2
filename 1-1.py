@@ -1,3 +1,4 @@
+# 1차 문제 1
 # 단체 티셔츠를 주문하기
 
 def solution(shirt_size):
